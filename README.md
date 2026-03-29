@@ -81,11 +81,11 @@ Deployment: Docker, AWS Lambda
 
 
   
-🌱 Continuous Learning
+**Continuous Learning**
 
 I continuously explore new technologies in AI, ML, and Generative AI.  
 Always open to collaboration and new opportunities.
 
 ---
 
-⭐ *Thanks for visiting my profile!*
+                                             *Thanks for visiting my profile!*
