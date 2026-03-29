@@ -74,7 +74,9 @@ Developed a real-time asset health monitoring system for industrial equipment su
 🛠️ Tools I Use
 ---
 IDE: Visual Studio Code, Jupyter Notebook
+
 Version Control: Git, GitHub
+
 Deployment: Docker, AWS Lambda
 
   
