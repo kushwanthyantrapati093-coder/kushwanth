@@ -69,6 +69,7 @@ Developed a real-time asset health monitoring system for industrial equipment su
  ---
 - 💼 [LinkedIn](https://www.linkedin.com/in/kushwanth-yantrapati-48356838a/)
 - 💻 [GitHub](https://github.com/kushwanth-AI/kushwanth)
+- 📱 Mobile: +91 9177526066
 - 📧 Email: kushwanthyantrapati5@gmail.com
 
 🛠️ Tools I Use
