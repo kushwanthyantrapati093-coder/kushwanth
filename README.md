@@ -71,6 +71,11 @@ Developed a real-time asset health monitoring system for industrial equipment su
 - 💻 [GitHub](https://github.com/)
 - 📧 Email: kushwanthyantrapati5@gmail.com
 
+🛠️ Tools I Use
+---
+IDE: Visual Studio Code, Jupyter Notebook
+Version Control: Git, GitHub
+Deployment: Docker, AWS Lambda
 
   
 🌱 Continuous Learning
