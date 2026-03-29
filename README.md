@@ -52,15 +52,16 @@ Feel free to explore my repositories! I am always open to collaboration, learnin
 
 Here are a few projects I am currently working on:
 
-1. **AI-Driven SQL Generation using Knowledge Graph**
+**1. AI-Driven SQL Generation using Knowledge Graph**
+   
 Built a Knowledge Graph–driven NLP-to-SQL Generative AI system using LangGraph and Neo4j to convert natural language queries into 
 validated Oracle SQL statements.
 
-2. **Enterprise Retrieval-Augmented Generation (RAG) System**
+**2. Enterprise Retrieval-Augmented Generation (RAG) System**
 
 Designed and implemented an enterprise RAG pipeline using vector databases, embeddings, and semantic search to retrieve context from structured and unstructured data sources.
 
-3. **Asset Health Care – Real-Time Asset Monitoring System**
+**3. Asset Health Care – Real-Time Asset Monitoring System**
    
 Developed a real-time asset health monitoring system for industrial equipment such as compressors, turbines, pumps, and reactors using continuous IoT sensor data (pressure, temperature, flow rate).
 
