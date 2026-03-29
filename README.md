@@ -1,9 +1,9 @@
 kushwanth/README.md
 
-👋 Hi, I'm Kushwanth
+                                             👋 Hi, I'm Kushwanth
 ---
 
-🚀 AI Engineer | Machine Learning | Generative AI | Python Developer  
+                          AI Engineer | Machine Learning | Generative AI | Python Developer  
 ---
 
 Welcome to my GitHub profile! I’m Kushwanth, an AI Engineer with a strong passion for problem-solving, machine learning, and deep learning. With a background in Data Science, I love working on cutting-edge technology and building intelligent systems.
