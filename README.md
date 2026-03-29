@@ -70,7 +70,7 @@ Developed a real-time asset health monitoring system for industrial equipment su
 - 💼 [LinkedIn](https://www.linkedin.com/in/kushwanth-yantrapati-48356838a/)
 - 💻 [GitHub](https://github.com/)
 - 📧 Email: kushwanthyantrapati5@gmail.com
-- 🌐 [Portfolio Website](https://your-portfolio-link.com)
+
 
   
 🌱 Continuous Learning
