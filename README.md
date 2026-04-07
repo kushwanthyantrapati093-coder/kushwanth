@@ -76,31 +76,22 @@ I’m an AI Engineer with a strong passion for building intelligent systems usin
 
 ---
 
-## 🌟 Current Projects
+## 🎯 What I'm Building
 
-### 🤖 AI SQL Query Agent
+🤖 **AI Agent Systems**  
+– Building intelligent agents using LangGraph, LLMs, and RAG pipelines for complex problem-solving  
 
-* Built a Knowledge Graph–driven NLP-to-SQL system using LangGraph and Neo4j
-* Converts natural language queries into validated SQL
-* FastAPI + Streamlit architecture
+🔍 **NLP & Information Retrieval**  
+– Developing AI systems that extract insights from structured and unstructured data  
 
-🔗 https://github.com/kushwanth-AI/ai-sql-query-agent
+⚡ **Prompt Engineering**  
+– Designing optimized, task-specific prompts for high-accuracy LLM workflows  
 
----
+🔧 **AI Product Development**  
+– Creating end-to-end AI solutions from backend APIs to deployment  
 
-### 🔍 Enterprise RAG System
-
-* Designed RAG pipeline using embeddings and vector databases
-* Retrieves context from structured & unstructured data
-* Improves LLM response accuracy
-
----
-
-### ⚙️ Asset Health Monitoring System
-
-* Real-time monitoring using IoT sensor data
-* Tracks equipment like compressors, turbines, pumps
-* Uses data processing for predictive insights
+📊 **Data & Backend Systems**  
+– Building scalable data processing pipelines and FastAPI-based applications  
 
 ---
 
