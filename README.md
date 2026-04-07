@@ -1,13 +1,19 @@
 <h1 align="center">👋 Hi, I'm Kushwanth Yantrapati</h1>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Generative+AI+Developer;RAG+Engineer;AI+Agent+Developer;Prompt+Engineer;FastAPI+Backend+Developer" />
-</h3>
-
 <p align="center">
-AI Engineer | Generative AI & AI Agents | Building Intelligent Systems
+  <b>AI Engineer & Generative AI Developer</b>
+</p>
+<p align="center">
+  AI Engineer | Generative AI & AI Agents | Building Intelligent Systems
+</p>
+<p align="center
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Multi-Agent+Developer;Prompt+Engineer;RAG+Engineer;LLM+Application+Builder;FastAPI+Backend+Developer" />
 </p>
 
+---
+
+## 🧠 About Me
 ---
 
 ## 🧠 About Me
