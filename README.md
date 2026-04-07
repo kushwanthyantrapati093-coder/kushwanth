@@ -58,10 +58,10 @@ I’m an AI Engineer with a strong passion for building intelligent systems usin
 
 ### 🗄️ Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge)
-![Neo4j](https://img.shields.io/badge/Neo4j-018BFF?style=for-the-badge\&logo=neo4j\&logoColor=white)
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-018BFF?style=for-the-badge&logo=neo4j&logoColor=white)
 
 ---
 
