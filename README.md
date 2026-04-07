@@ -105,13 +105,9 @@ I’m an AI Engineer with a strong passion for building intelligent systems usin
 
 ## 📫 Get in Touch
 
-## 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kushwanth-yantrapati-48356838a/)
-
-[![Email](https://img.shields.io/badge/Email-Send-red?style=for-the-badge&logo=gmail)](kushwanthyantrapati5@gmail.com)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/kushwanth-AI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kushwanth)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:kushwanthyantrapati5@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/kushwanth-AI)
 
 ---
 
