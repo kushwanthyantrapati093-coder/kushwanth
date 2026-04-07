@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Kushwanth Yantrapati
+#                                          👋 Hi, I'm Kushwanth Yantrapati
 
-🚀 AI Engineer | Generative AI | Machine Learning | Python Developer
+                             AI Engineer | Generative AI | Machine Learning | Python Developer
 
 ---
 
