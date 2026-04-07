@@ -1,5 +1,9 @@
+<h1 align="center">👋 Hi, I'm Kushwanth Yantrapati</h1>
 
-#                  <h1 align="center">👋 Hi, I'm Kushwanth Yantrapati</h1>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Generative+AI+Developer;RAG+Engineer;AI+Agent+Developer;Prompt+Engineer;FastAPI+Backend+Developer" />
+</h3>
+
 <p align="center">
 AI Engineer | Generative AI & AI Agents | Building Intelligent Systems
 </p>
@@ -10,11 +14,10 @@ AI Engineer | Generative AI & AI Agents | Building Intelligent Systems
 
 I’m an AI Engineer with a strong passion for building intelligent systems using Machine Learning, Deep Learning, and Generative AI.
 
-* 🤖 Focused on LLMs, RAG, and AI Agents
-* 🔗 Building real-world AI applications using FastAPI & LangGraph
-* 📊 Strong in backend APIs, data processing, and scalable systems
-* 🎯 Actively looking for opportunities in AI / GenAI roles
-
+* 🤖 Focused on LLMs, RAG, and AI Agents  
+* 🔗 Building real-world AI applications using FastAPI & LangGraph  
+* 📊 Strong in backend APIs, data processing, and scalable systems  
+* 🎯 Actively looking for opportunities in AI / GenAI roles  
 ---
 
 ## 🔍 Core Expertise
