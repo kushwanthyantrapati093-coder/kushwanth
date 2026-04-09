@@ -15,7 +15,7 @@ I’m an AI Engineer with a strong passion for building intelligent systems usin
 * 🤖 Focused on LLMs, RAG, and AI Agents  
 * 🔗 Building real-world AI applications using FastAPI & LangGraph  
 * 📊 Strong in backend APIs, data processing, and scalable systems  
-* 🎯 Actively looking for opportunities in AI / GenAI roles  
+* 🎯 Actively looking for opportunities in AI / GenAI roles
 ---
 
 ## 🔍 Core Expertise
